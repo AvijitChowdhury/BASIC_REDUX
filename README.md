@@ -1,4 +1,4 @@
-### used Libraries for this project:
+### Used libraries for this project:
 
     1-.Node js
     2-.Redux
